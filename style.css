@@ -1,0 +1,17 @@
+
+#container-div{
+    /* border: red solid; */
+    height: 96vh;
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    /* border: blue solid; */
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+    /* justify-content: space-evenly; */
+}
